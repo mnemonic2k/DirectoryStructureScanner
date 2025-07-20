@@ -16,7 +16,7 @@ A powerful Bash script for analyzing project directory structures and preparing 
 
 1. Download the script:
 ```bash
-curl -O https://raw.githubusercontent.com/yourusername/directory-scanner/main/scan_project.sh
+curl -O https://github.com/mnemonic2k/DirectoryStructureScanner/scan_project.sh
 ```
 
 2. Make it executable:
@@ -144,7 +144,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Author
 
-Created by Mnemonic
+Created by Mnemonic2k
 
 ---
 
